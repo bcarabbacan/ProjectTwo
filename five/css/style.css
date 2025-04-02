@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: #90D5FF;
+    color: white;
+    padding-left: 30%;
+    padding-top: 10%;
+    /* padding-right: 40%; */
+}
+
+h4 {
+   display: flex;
+   flex-direction: column;
+   justify-content:center;
+   font-size: 3em;
+   /* align-items:center; */
+   text-align: left ;
+
+   font-family: "dynapuff", sans-serif;
+
+
+}
+
+h4:hover {
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#so {
+transition-duration: 2s;
+/* transition-delay: 1.5s;  */
+
+}
+
+#so:hover {
+  transform: scale(2);
+}
+
+#mOne {
+
+}
+
+#good {
+    color: green;
+}
