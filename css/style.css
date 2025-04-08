@@ -52,7 +52,7 @@ transition-duration: 1.5s;
 transition-delay: 0.5s;
 color: white;
 /* transition-timing-function: ease-out; */
-transform: scale(2) translate(25px);
+transform: scale(2) translate(25px, 0px);
     }
 
     .opening {
