@@ -95,7 +95,7 @@ a:hover {
       }
 
       #good {
-        animation: reveal 1.5s 2.8s, slideRight 1.5s 2s ease-out;
+        animation: reveal 2s 3s, slideRight 1s 1s ease-out;
       animation-fill-mode: both;
       }
   
