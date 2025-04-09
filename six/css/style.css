@@ -11,7 +11,8 @@ body {
     background-color: #90D5FF;
     color: white;
     padding-top: 20%;
-    animation: space 2s;
+    animation: space 3s 0.7s;
+    animation-fill-mode: both;
 
 }
 
