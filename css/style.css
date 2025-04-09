@@ -170,32 +170,49 @@ a {
         display: flex;
         flex-direction:row ;
         /* flex-wrap: nowrap; */
-        padding-right: 2% ;
         align-items: center;
         justify-content: center;
     }
+    .bigBlueWorld {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+    }
     #living {
       padding-right: 1%;
+      animation: reveal 2s;
+      animation-fill-mode: both;
     }
     #inI {
       padding-right: 1%;
+      animation: reveal 2s 0.3s;
+      animation-fill-mode: both;
     }
     
     #thisII {
       padding-right: 1%;
+      animation: reveal 2s 0.6s;
+      animation-fill-mode: both;
   
     }
     #big {
       padding-right: 1%;
+      animation: reveal 2s 1s;
+      animation-fill-mode: both;
     
     }
   #blue {
     color: #00008A;
     padding-right: 1%;
+    animation: reveal 2s 1.4s;
+      animation-fill-mode: both;
   
   }
   #world {
     padding-right: 1%;
+    animation: reveal 2s 1.8s;
+      animation-fill-mode: both;
   
   }
 
