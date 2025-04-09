@@ -75,36 +75,6 @@ a {
     padding-right: 1%;
   }
 
-  /* page seven */
-
-  .seven {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-  }
-
-  #iII {
-    padding-right: 1%;
-    animation: reveal 2s;
-    animation-fill-mode: both;
-  }
-  #be {
-    padding-right: 1%;
-    animation: reveal 2s 0.2s;
-    animation-fill-mode: both;
-  }
-  #makin {
-    padding-right: 1%;
-    animation: reveal 2s 0.6s;
-    animation-fill-mode: both;
-  }
-  #lemonade {
-    padding-right: 1%;
-    animation: reveal 2s 1s;
-    animation-fill-mode: both;
-  }
-
   @keyframes reveal {
     from {opacity:0;}
     to {opacity:1;}
