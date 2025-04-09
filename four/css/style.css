@@ -55,23 +55,20 @@ a:hover {
     justify-content: center;
   }
   #with {
-    padding-right: 2%;
+    padding-right: 1%;
     animation: reveal 2s;
     animation-fill-mode: both;
 
   }
   #my {
-    padding-right: 2%;
+    padding-right: 1%;
     animation: reveal 2s 0.25s;
     animation-fill-mode: both;
 
   }
 
 #head {
-  padding-right: 2%;
-  /* transform: translateY( -250px) rotate(-5deg);
-  transition-duration: 1.5s;
-  transition-delay: 2s; */
+  padding-right: 1%;
   animation: reveal 2s 0.5s, slideUp 1.5s 1.5s;
   animation-fill-mode: both;
 
@@ -80,10 +77,10 @@ a:hover {
     animation: slideUp 1.5s 1.5s, reveal 2s 1s;
     animation-fill-mode: both;;
     animation-fill-mode: both;
-padding-right: 2%;
+padding-right: 1%;
   }
 #in {
-padding-right: 2%;
+padding-right: 1%;
 animation: reveal 2s 1.4s, slideUp 1.5s 1.7s;
 animation-fill-mode: both;
 }
@@ -91,12 +88,12 @@ animation-fill-mode: both;
 #outer {
   animation: reveal 2s  1.8s, slideUp 1.5s 1.9s;
   animation-fill-mode: both;
-  padding-right: 2%;
+  padding-right: 1%;
 }
 #space {
   animation: reveal 2s 2.4s, slideUp 1.5s 2.1s;
   animation-fill-mode: both;
-  padding-right: 2%;
+  padding-right: 1%;
 }
   @keyframes slideUp {
     from {transform: translateY(0px) rotate(0deg);}
