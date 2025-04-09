@@ -174,7 +174,6 @@ a {
     .threeI {
         display: flex;
         flex-direction:row ;
-        /* flex-wrap: nowrap; */
         align-items: center;
         justify-content: center;
     }
@@ -250,7 +249,7 @@ a {
       padding-right: 1%;
       animation: reveal 2s 0.7s;
       animation-fill-mode: both;
-      color: red;
+      color: #FF2C2C;
     }
     #come {
       padding-right: 1%;
@@ -268,7 +267,6 @@ a {
       padding-right: 1%;
     }
 
-    /* page seven */
 
 
     /* page eight */

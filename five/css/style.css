@@ -20,7 +20,6 @@ background-color: black;
 h4 {
    display: flex;
    flex-direction: column;
-   /* align-items:center; */
    font-family: "dynapuff", sans-serif;
    font-size: 4em;
 
